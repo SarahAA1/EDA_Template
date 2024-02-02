@@ -40,7 +40,8 @@ Welcome to the Exploratory Data Analysis (EDA) Report Template repository! This 
         <li><a href="#13-interactive-eda-tools">Interactive EDA Tools</a></li>
         <li><a href="#14-next-steps">Next Steps</a></li>
     </ol>
- ## How to Use
+
+## How to Use
 Clone or Download:</strong> Obtain a copy of the EDA template to your local machine.</li>
         <li><strong>Customize:</strong> Tailor the template to match the specific requirements of your project by modifying or adding sections.</li>
         <li><strong>Execute:</strong> Follow the step-by-step guide within each section to conduct a thorough EDA.</li>
